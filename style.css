@@ -1,0 +1,62 @@
+/* body,h */
+body{margin-left: 0;
+padding: 10% 15%;
+background-color: hsl(0, 0%, 95%);
+}
+h3{color: white;
+  text-transform: uppercase;
+  margin: 10% 0;
+line-height: 1.5;}
+p{color: hsla(0, 0%, 100%, 0.75);}
+/*  */
+
+.suv,.luxury,.sedan{padding: 5% 5% ;
+font-size: 15px;
+}
+/* background colors */
+.sedan{background-color: hsl(31, 77%, 52%);
+border-radius: 8px 0 0 8px;}
+.suv{background-color: hsl(184, 100%, 22%);}
+.luxury{background-color: hsl(179, 100%, 13%);
+border-radius: 0 8px 8px 0;}
+/* button */
+.but{ margin-top: 10%;
+  margin-bottom: :10%;
+  border-radius: 25px;
+padding: 3% 10%;
+border:1px solid white;
+}
+.but-one{color:hsl(31, 77%, 52%);}
+.but-two{color:hsl(184, 100%, 22%);
+}
+.but-three{color: hsl(179, 100%, 13%); }
+.but:hover{border: 1px solid white;
+background-color: transparent;
+color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* attribution */
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
